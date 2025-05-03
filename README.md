@@ -48,7 +48,7 @@
 ### 📫 Let's Connect!
 
 - 📧 Email: devilkye786@gmail.com(mailto:your.email@example.com)
-- 🧠 LinkedIn: [your-linkedin-profile](www.linkedin.com/in/muhammad-murtaza-775011240)
+- 🧠 LinkedIn: (www.linkedin.com/in/muhammad-murtaza-775011240)
 
 ---
 
