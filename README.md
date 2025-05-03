@@ -70,14 +70,14 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 
 ### 📫 Let's Connect!
 
-- 📧 Email: devilkye786@gmail.com(mailto:your.email@example.com)
+- 📧 Email: (devilkye786@gmail.com)
 - 🧠 LinkedIn: (www.linkedin.com/in/muhammad-murtaza-775011240)
 
 ---
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ciscothehackergod&show_icons=true&theme=dark" />
 </p>
 
 ---
