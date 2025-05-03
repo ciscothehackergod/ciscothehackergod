@@ -35,20 +35,50 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+
+
+
+## 🛠️ My Practical Work
+
+Explore some of my real-world security reports and documents hosted in my [Cybersecurity Portfolio Repository](https://github.com/ciscothehackergod/cybersecurity-portfolio):
+
+#### 🔐 Cybersecurity & Incident Response
+- [Incident Response Report (PDF)](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Incident-response.pdf)
+- [DOS Incident Response (DOCX)](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/(DOS)incident-response.docx)
+- [Bruteforce Incident Report](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Bruteforce-incident-report-.docx)
+
+#### 🧩 Security Frameworks & Audits
+- [Security Audit Report](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/security-audit-%20report.docx)
+- [NIST Framework Analysis Report](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/applied-nist-framework-incident-report-analysis.docx)
+- [Security Risk Assessment](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Security-risk-assessment-report.docx)
+
+#### 🖥️ Operating Systems
+- [File Permissions in Linux](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Filled_File_Permissions_in_Linux.docx)
+
+#### 💾 SQL Security
+- [Applied Filters to SQL Queries](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Applied%20filters%20to%20SQL%20queries.docx)
+- [Vulnerability Assessment Report](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/vulnerability-asessment-report.docx)
+
+#### 💾 Automation tool in bash
+- [Directory bruteforcer tool made in bash](https://github.com/ciscothehackergod/Fuzzyman)
+- [A automatic fuzzer that can take a file of neumorous urls and can bruteforce direcotories one by one , rermain undetected and works best on low resource linux system such 1gb ram vps ]
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" />
-</p>
-
 ---
+
+
 
 ### 📫 Let's Connect!
 
 - 📧 Email: devilkye786@gmail.com(mailto:your.email@example.com)
 - 🧠 LinkedIn: (www.linkedin.com/in/muhammad-murtaza-775011240)
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" />
+</p>
 
 ---
 
