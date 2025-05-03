@@ -18,7 +18,17 @@
 - 📚 I’m always hungry for knowledge in my domain!
 
 ---
+### 📚 Books I've Read
 
+These are some of the foundational and advanced books that have contributed to my cybersecurity knowledge:
+
+- *Web Application Security: A Hacker's Handbook* by Dafydd Stuttard & Marcus Pinto  
+- *Linux Basics for Hackers* by OccupyTheWeb  
+- *Bug Bounty Bootcamp* by Vickie Li  
+- *Computer Networking: A Top-Down Approach* by James Kurose & Keith Ross  
+- *Network Basics for Hackers* by OccupyTheWeb  
+
+---
 ### 🔧 Tools & Skills
 
 <p align="left">
