@@ -73,7 +73,7 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 - [Directory bruteforcer tool made in bash](https://github.com/ciscothehackergod/Fuzzyman)
 - [A automatic fuzzer that can take a file of neumorous urls and can bruteforce direcotories one by one , rermain undetected and works best on low resource linux system such 1gb ram vps ]
 
-#### Analysis of algorithms in python 
+#### 🖥️ Analysis of algorithms in python 
 - [selection sort](https://github.com/ciscothehackergod/sort_algo_analysis/blob/main/insertion_sort.py)
 - [Time complexities]: 
 - [worst case O(n^2)]
@@ -86,6 +86,18 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 - [best  case o(n)]
 - [avg   case o(n^2)]
 - [space complexity O(1)]
+- [Bubble sort](https://github.com/ciscothehackergod/sort_algo_analysis/blob/main/Bubble_sort.py)
+- [Time complexities]: 
+- [worst case O(n^2)]
+- [best  case o(n)]
+- [avg   case o(n^2)]
+- [space complexity O(1)]
+- [counting sort ](https://github.com/ciscothehackergod/sort_algo_analysis/blob/main/Bubble_sort.py)
+- [Time complexities]: 
+- [worst case O(n + k)]
+- [best  case O(n + k)]
+- [avg   case O(n + k)]
+- [space complexity O(k)]
 ---
 
 
