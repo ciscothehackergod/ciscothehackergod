@@ -62,6 +62,22 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 - [NIST Framework Analysis Report](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/applied-nist-framework-incident-report-analysis.docx)
 - [Security Risk Assessment](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Security-risk-assessment-report.docx)
 
+#### ⌨️ Wi-Fi Handshake Capture and Password Cracking Simulation (Home Lab)
+- [conducted a security assessment on my personal home Wi-Fi network to test its resilience against common wireless attacks.
+
+    Captured WPA2 handshake using airodump-ng and aireplay-ng
+
+    Used aircrack-ng and hashcat to perform dictionary and brute-force attacks
+
+    Successfully cracked the Wi-Fi password, highlighting the importance of strong passphrases
+
+    Reported findings and implemented stronger WPA2 passwords and additional protections
+
+Tools used: Kali Linux, Aircrack-ng, Hashcat
+
+Skills demonstrated: Wireless network enumeration, handshake analysis, password cracking, and basic Wi-Fi hardening techniques.andshake%20Capture.docx
+- [link to the docx file of the report generated ](https://github.com/ciscothehackergod/Wpa2_cracking/blob/main/WPA2%20Handshake%20Capture.docx)]
+
 #### 🖥️ Operating Systems
 - [File Permissions in Linux](https://github.com/ciscothehackergod/cybersecurity-portfolio/blob/main/Filled_File_Permissions_in_Linux.docx)
 
