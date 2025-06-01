@@ -65,7 +65,7 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 #### ⌨️ Wi-Fi Handshake Capture and Password Cracking Simulation (Home Lab)
 - capture the hash and cracked it of my home wifi network .
 - Tools used: Kali Linux, Aircrack-ng, Hashcat
-- Skills demonstrated: Wireless network enumeration, handshake analysis, password cracking, and basic Wi-Fi hardening techniques.andshake%20Capture.docx
+- Skills demonstrated: Wireless network enumeration, handshake analysis, password cracking, and basic Wi-Fi pentesting techniques .
 - [link to the docx file of the report generated ](https://github.com/ciscothehackergod/Wpa2_cracking/blob/main/WPA2%20Handshake%20Capture.docx)
 
 #### 🖥️ Operating Systems
