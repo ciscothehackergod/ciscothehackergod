@@ -105,12 +105,13 @@ Explore some of my real-world security reports and documents hosted in my [Cyber
 - [avg   case O(n + k)]
 - [space complexity O(k)]
 ---
-
+### 🐍 An algorithm made in python that can update contents in a file
+-[algorithm link](https://github.com/ciscothehackergod/python_project/blob/main/file_updating_algorithm.pdf)
 
 
 ### 📫 Let's Connect!
 
-- 📧 Email: (devilkye786@gmail.com)
+- 📧 Email: (pctech283@gmail.com)
 - 🧠 LinkedIn: (www.linkedin.com/in/muhammad-murtaza-775011240)
 
 ---
