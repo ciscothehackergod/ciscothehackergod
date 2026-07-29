@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am a Ethical hacker, who just doesn’t run some scanners or vulnerability tools on targets but have the ability to subvert the logic of an application’s functionality to bypass defensive mechanisms and slide my code into the applications. 
+I am a Ethical hacker, who just not only run some scanners or vulnerability tools on targets but have the ability to subvert the logic of an application’s functionality to bypass defensive mechanisms and slide my code into the applications. 
 
 I have insomnia,social anxiety,photo synthesis and x64 architecture multi threading brain  , i see in gazallion dots per pixel.
 
